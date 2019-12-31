@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<config>
+    <lines at="topleft">
+        <line>
+	    <str>Day $3{day}$f, Time: </str>
+            <if>
+                <var>daytime</var>
+                <str>$e{mctime}</str>
+                <str>$7{mctime}</str>
+            </if>
+	    <if>
+		<var>raining</var>
+		<str>$f, $bRaining</str>
+	    </if>
+	    <if>
+		<var>thundering</var>
+		<str>$f, $bThundering</str>
+	    </if>
+        </line>
+        <line>
+            <str>Biome: $3{biome}</str>
+        </line>
+        <line>
+            <str>Entities: $2{entitiesrendered}$f / $c{entitiestotal}$f</str>
+        </line>
+        <line>
+            <max>
+                <var>fps</var>
+                <num>30</num>
+                <str>$2</str>
+                <str>$c</str>
+            </max>
+            <var>fps</var>
+            <str>$f fps</str>
+        </line>
+    </lines>
+</config>
