@@ -12,7 +12,17 @@ var removeandhide = [
   <railcraft:worldspike:2>,
   <railcraft:worldspike:3>,
   <railcraft:worldspike_point>,
-  <railcraft:cart_worldspike_standard>
+  <railcraft:cart_worldspike_standard>,
+  
+// Grief Toys Removed
+  <ic2:te:2>, //IC2 Nuke
+  <techreborn:nuke>, //TR Nuke
+  <appliedenergistics2:tiny_tnt>, //AE2 Tiny TnT
+  <ic2:dynamite>, //IC2 Dynamite
+  <ic2:dynamite_sticky>, //IC2 Dynamite
+  <ic2:remote>, //IC2 Dynamite
+  <minecraft:tnt_minecart> //RC TnT Cart
+  
 ] as IItemStack[];
 
 for i, item in removeandhide {
