@@ -54,9 +54,58 @@ var removeandhide = [
   <ic2:boat:2>, //Carbon Canoe Boat
   <ic2:boat:1>, //Rubber Dinghy Boat
   <ic2:misc_resource:3>, //UU Matter
-  <ic2:crafting> //Rubber Conversion TR/IC
+  <ic2:crafting>, //Rubber Conversion TR/IC
   
-  
+// Vanilla Armors
+  <minecraft:chainmail_helmet>,
+  <minecraft:chainmail_chestplate>,
+  <minecraft:chainmail_leggings>,
+  <minecraft:chainmail_boots>,
+  <minecraft:iron_helmet>,
+  <minecraft:iron_chestplate>,
+  <minecraft:iron_leggings>,
+  <minecraft:iron_boots>,
+  <minecraft:golden_helmet>,
+  <minecraft:golden_chestplate>,
+  <minecraft:golden_leggings>,
+  <minecraft:golden_boots>,
+  <minecraft:diamond_helmet>,
+  <minecraft:diamond_chestplate>,
+  <minecraft:diamond_leggings>,
+  <minecraft:diamond_boots>,
+// Vanilla Boats
+  <minecraft:boat>,
+  <minecraft:spruce_boat>,
+  <minecraft:birch_boat>,
+  <minecraft:jungle_boat>,
+  <minecraft:acacia_boat>,
+  <minecraft:dark_oak_boat>,
+// Vanilla Tools
+  <minecraft:iron_shovel>,
+  <minecraft:iron_pickaxe>,
+  <minecraft:iron_axe>,
+  <minecraft:iron_sword>,
+  <minecraft:wooden_sword>,
+  <minecraft:wooden_shovel>,
+  <minecraft:wooden_pickaxe>,
+  <minecraft:wooden_axe>,
+  <minecraft:stone_sword>,
+  <minecraft:stone_shovel>,
+  <minecraft:stone_pickaxe>,
+  <minecraft:stone_axe>,
+  <minecraft:golden_sword>,
+  <minecraft:golden_shovel>,
+  <minecraft:golden_pickaxe>,
+  <minecraft:golden_axe>,
+  <minecraft:diamond_sword>,
+  <minecraft:diamond_shovel>,
+  <minecraft:diamond_pickaxe>,
+  <minecraft:diamond_axe>,
+  <minecraft:wooden_hoe>,
+  <minecraft:stone_hoe>,
+  <minecraft:iron_hoe>,
+  <minecraft:golden_hoe>,
+  <minecraft:diamond_hoe>
   
   
 ] as IItemStack[];
