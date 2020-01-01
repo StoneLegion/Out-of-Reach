@@ -38,9 +38,26 @@ var removeandhide = [
   <ic2:te:92>, //Mass Fabricator
   <ic2:te:48>, //Recycler
   <ic2:crafting:23>, //Scrap Box
-  <ic2:crafting:24> //Scrap
+  <ic2:crafting:24>, //Scrap
   
+//Remove IC2 Machines
+  <ic2:te:10>, //Water Mill
+  <ic2:te:11>, //Wind Mill
+  <ic2:te:82>, //Chunkloader
+  <ic2:te:39>, //Teleporter
+  <ic2:te:57>, //Advance Miner
+  <ic2:te:60>, //Miner
 
+//Remove IC2 Items
+  <ic2:ingot:7>, //Refined Iron
+  <ic2:boat:3>, //Electric Boat
+  <ic2:boat:2>, //Carbon Canoe Boat
+  <ic2:boat:1>, //Rubber Dinghy Boat
+  <ic2:misc_resource:3>, //UU Matter
+  <ic2:crafting> //Rubber Conversion TR/IC
+  
+  
+  
   
 ] as IItemStack[];
 
