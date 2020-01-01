@@ -20,7 +20,13 @@ var removeandhide = [
   <ic2:dynamite>, //IC2 Dynamite
   <ic2:dynamite_sticky>, //IC2 Dynamite
   <ic2:remote>, //IC2 Dynamite
-  <minecraft:tnt_minecart> //RC TnT Cart
+  <minecraft:tnt_minecart>, //RC TnT Cart
+  
+//Remove Xnet Wireless
+  <xnet:wireless_router>,
+  <xnet:antenna>,
+  <xnet:antenna_base>,
+  <xnet:antenna_dish>
   
 ] as IItemStack[];
 
