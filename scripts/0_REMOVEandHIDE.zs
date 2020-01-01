@@ -16,7 +16,6 @@ var removeandhide = [
   
 // Grief Toys Removed
   <ic2:te:2>, //IC2 Nuke
-  <techreborn:nuke>, //TR Nuke
   <ic2:dynamite>, //IC2 Dynamite
   <ic2:dynamite_sticky>, //IC2 Dynamite
   <ic2:remote>, //IC2 Dynamite
