@@ -105,7 +105,13 @@ var removeandhide = [
   <minecraft:stone_hoe>,
   <minecraft:iron_hoe>,
   <minecraft:golden_hoe>,
-  <minecraft:diamond_hoe>
+  <minecraft:diamond_hoe>,
+  
+// Remove Jack o'Lantern (Pumpkin) Lighting Bypass
+  <minecraft:lit_pumpkin>,
+  
+// Removed old crafting table (Search Workbench)
+  <minecraft:crafting_table>
   
   
 ] as IItemStack[];
