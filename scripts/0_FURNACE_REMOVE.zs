@@ -23,6 +23,7 @@ var furnaceremove = [
   <minecraft:stone:4>,
   <minecraft:log:3>,
   <minecraft:netherbrick>,
+  <minecraft:stone:2>,
 
 // Vanilla Misc
   <minecraft:dye:2>,
@@ -30,6 +31,45 @@ var furnaceremove = [
   <minecraft:quartz>,
   <minecraft:gold_nugget>,
   <minecraft:iron_nugget>,
+  
+// Remove Materials
+  <minecraft:diamond>,
+  <minecraft:emerald>,
+  <minecraft:dye:4>,
+  <minecraft:redstone>,
+  <minecraft:coal>,
+  <immersiveengineering:material:19>,
+  <ic2:ingot:1>,
+  <techreborn:ingot:19>,
+  <techreborn:ingot:18>,
+  <techreborn:ingot:1>,
+  <techreborn:ingot:11>,
+  <immersiveengineering:metal:3>,
+  <techreborn:ingot:6>,
+  <techreborn:ingot:10>,
+  <techreborn:ingot:4>,
+  <techreborn:ingot:2>,
+  <techreborn:ingot:13>,
+  <ic2:ingot:2>,
+  <immersiveengineering:metal:5>,
+  <techreborn:ingot:8>,
+  <immersiveengineering:metal:4>,
+  <techreborn:ingot:20>,
+  <techreborn:ingot:9>,
+  <immersiveengineering:metal:8>,
+  <immersiveengineering:metal:7>,
+  <ic2:ingot:6>,
+  <minecraft:iron_ingot>,
+  <ic2:ingot:4>,
+  <immersiveengineering:metal:2>,
+  <immersiveengineering:metal:6>,
+  <immersiveengineering:metal>,
+  <immersiveengineering:metal:1>,
+  <techreborn:ingot:5>,
+  <ic2:ingot:3>,
+  <minecraft:gold_ingot>,
+  
+  
   
 // Railcraft Blocks
   <railcraft:brick_nether:2>,
