@@ -99,7 +99,34 @@ var removeandhide = [
   <theoneprobe:diamond_helmet_probe>,
   <theoneprobe:gold_helmet_probe>,
   <theoneprobe:iron_helmet_probe>,
-  <theoneprobe:probe_goggles>
+  <theoneprobe:probe_goggles>,
+  
+//Iron Chest shulker crap
+  <ironchest:diamond_obsidian_shulker_upgrade>,
+  <ironchest:vanilla_copper_shulker_upgrade>,
+  <ironchest:vanilla_iron_shulker_upgrade>,
+  <ironchest:diamond_crystal_shulker_upgrade>,
+  <ironchest:copper_iron_shulker_upgrade>,
+  <ironchest:silver_gold_shulker_upgrade>,
+  <ironchest:copper_silver_shulker_upgrade>,
+  <ironchest:gold_diamond_shulker_upgrade>,
+  <ironchest:iron_gold_shulker_upgrade>,
+  <ironchest:iron_shulker_box_cyan:*>,
+  <ironchest:iron_shulker_box_purple:*>,
+  <ironchest:iron_shulker_box_blue:*>,
+  <ironchest:iron_shulker_box_brown:*>,
+  <ironchest:iron_shulker_box_green:*>,
+  <ironchest:iron_shulker_box_red:*>,
+  <ironchest:iron_shulker_box_black:*>,
+  <ironchest:iron_shulker_box_silver:*>,
+  <ironchest:iron_shulker_box_gray:*>,
+  <ironchest:iron_shulker_box_pink:*>,
+  <ironchest:iron_shulker_box_lime:*>,
+  <ironchest:iron_shulker_box_yellow:*>,
+  <ironchest:iron_shulker_box_light_blue:*>,
+  <ironchest:iron_shulker_box_magenta:*>,
+  <ironchest:iron_shulker_box_orange:*>,
+  <ironchest:iron_shulker_box_white:*>
   
   
 ] as IItemStack[];
