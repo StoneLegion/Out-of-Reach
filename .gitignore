@@ -3,3 +3,5 @@ config/JustEnoughCalculation/record.json
 config/codechicken/supporters.json
 config/codechicken/supporters.marker
 config/splash.properties
+config/AppliedEnergistics2/CustomRecipes.cfg
+config/AppliedEnergistics2/items.csv
