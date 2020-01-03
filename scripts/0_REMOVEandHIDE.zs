@@ -147,7 +147,12 @@ var removeandhide = [
   <minecraft:red_shulker_box>,
   <minecraft:black_shulker_box>,
   
-  
+// Remove One Probe Junk
+  <theoneprobe:probe>,
+  <theoneprobe:diamond_helmet_probe>,
+  <theoneprobe:gold_helmet_probe>,
+  <theoneprobe:iron_helmet_probe>,
+  <theoneprobe:probe_goggles>,
   
   
 // Remove Jack o'Lantern (Pumpkin) Lighting Bypass
