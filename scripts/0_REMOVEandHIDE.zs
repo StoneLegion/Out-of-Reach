@@ -107,6 +107,21 @@ var removeandhide = [
   <minecraft:golden_hoe>,
   <minecraft:diamond_hoe>,
   
+// Remove Immersive Engineering Armor & Some Other Tools
+  <immersiveengineering:steel_armor_head>,
+  <immersiveengineering:steel_armor_chest>,
+  <immersiveengineering:steel_armor_legs>,
+  <immersiveengineering:steel_armor_feet>,
+  <immersiveengineering:pickaxe_steel>,
+  <immersiveengineering:shovel_steel>,
+  <immersiveengineering:axe_steel>,
+  <immersiveengineering:sword_steel>,
+  <immersiveengineering:shield>,
+  <immersiveengineering:toolupgrade:10>,//shield upgrade
+  <immersiveengineering:toolupgrade:11>,//shield upgrade
+  <immersiveengineering:toolupgrade:12>,//shield upgrade
+  
+  
 // Removed TFC Boats We go legit boys!
   <tfc:wood/boat/acacia>,
   <tfc:wood/boat/ash>,
