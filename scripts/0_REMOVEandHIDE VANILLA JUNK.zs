@@ -333,7 +333,24 @@ var removeandhide = [
   <minecraft:wooden_sword>,
   <minecraft:written_book>,
   <minecraft:yellow_flower>,
-  <minecraft:yellow_shulker_box>
+  <minecraft:yellow_shulker_box>,
+  
+// More stuff I missed
+  <minecraft:enchanting_table>,
+  <minecraft:brewing_stand>,
+  <minecraft:netherbrick>,
+  <minecraft:dye:3>,
+  <minecraft:blaze_powder>,
+  <minecraft:magma_cream>,
+  <minecraft:dragon_breath>,
+  <minecraft:blaze_rod>,
+  <minecraft:ghast_tear>,
+  <minecraft:ender_pearl>,
+  <minecraft:ender_eye>,
+  <minecraft:dragon_egg>
+  
+  
+  
   
 ] as IItemStack[];
 
