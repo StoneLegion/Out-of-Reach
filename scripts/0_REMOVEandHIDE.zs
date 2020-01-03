@@ -107,6 +107,28 @@ var removeandhide = [
   <minecraft:golden_hoe>,
   <minecraft:diamond_hoe>,
   
+// Removed TFC Boats We go legit boys!
+  <tfc:wood/boat/acacia>,
+  <tfc:wood/boat/ash>,
+  <tfc:wood/boat/aspen>,
+  <tfc:wood/boat/birch>,
+  <tfc:wood/boat/blackwood>,
+  <tfc:wood/boat/chestnut>,
+  <tfc:wood/boat/douglas_fir>,
+  <tfc:wood/boat/hickory>,
+  <tfc:wood/boat/kapok>,
+  <tfc:wood/boat/maple>,
+  <tfc:wood/boat/oak>,
+  <tfc:wood/boat/palm>,
+  <tfc:wood/boat/pine>,
+  <tfc:wood/boat/rosewood>,
+  <tfc:wood/boat/sequoia>,
+  <tfc:wood/boat/spruce>,
+  <tfc:wood/boat/sycamore>,
+  <tfc:wood/boat/white_cedar>,
+  <tfc:wood/boat/willow>,
+  <tfc:wood/boat/hevea>,
+  
 // Remove Jack o'Lantern (Pumpkin) Lighting Bypass
   <minecraft:lit_pumpkin>,
   
